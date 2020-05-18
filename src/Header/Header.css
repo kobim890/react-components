@@ -1,0 +1,9 @@
+.Header{
+    border:orange solid 3px;
+    margin:2px;
+    color:orange;
+    text-align: center;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}

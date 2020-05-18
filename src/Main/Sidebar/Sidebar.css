@@ -1,0 +1,14 @@
+.Sidebar{
+    border:red solid 3px;
+    margin:2px;
+    width:20%;
+    height:500px;
+    color:red;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display:flex;
+}
+.Sidebar div{
+    align-self: center;
+}

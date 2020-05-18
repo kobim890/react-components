@@ -1,0 +1,13 @@
+.Main{
+    border:limegreen solid 3px;
+    text-align: center;
+    margin:2px;
+    display:flex;
+    color:limegreen;
+    flex-direction: column;
+
+}
+.main-inside{
+    display:flex;
+    width:100%;
+}

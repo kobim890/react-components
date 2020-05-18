@@ -1,0 +1,13 @@
+.Collapsible{
+    width:300px;
+    border:1px solid #dddddd;
+    margin-left: 15px;
+}
+.Collapsible-header{
+    background: gray;
+    font-size: 22px;
+    padding: 15px;
+}
+.Collapsible-content{
+    padding:15px;
+}
